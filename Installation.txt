@@ -1,0 +1,10 @@
+
+	INSTALLATION
+1. open php/connection.php;
+2. change the host,user,password;
+3.create a database with the name : image_platform;
+4. open sql.txt and copy all the code
+5. go to your database and click SQL and paste that code and the tables will generate automatically;
+6.ENJOY IT!
+
+if you have any questione: ask me here:   naoufaldah99@gmail.com
